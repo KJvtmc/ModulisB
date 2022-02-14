@@ -2,7 +2,7 @@ package akad2021.vakcina;
 
 import com.jayway.restassured.RestAssured;
 
-import akad2021.vakcina.App;
+import akad2021.app.App;
 
 import org.junit.Before;
 import org.junit.Test;

@@ -1,0 +1,6 @@
+#FileLock
+#Mon Feb 14 16:09:44 EET 2022
+server=192.168.56.1\:56117
+hostName=KAB213-02.KITM.local
+method=file
+id=17ef89147b1e7bd0c2195f3e336acd97e5cd5f20ba8
